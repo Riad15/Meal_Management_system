@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Meal_Management_system/1.0.0": {
+        "runtime": {
+          "Meal_Management_system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Meal_Management_system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
